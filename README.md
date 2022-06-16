@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrianLefflerKruse
+- 👋 Hi, I’m Brian leffler Kruse - @BrianLefflerKruse
 - 👀 I’m interested in Tech about PowersHell, Citrix, VMWare, Microsoft
 - 🌱 I’m currently learning to be better at PowerShell...
 - 🌱 I will be using this to share my Community work and scripts
